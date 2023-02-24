@@ -1,5 +1,5 @@
 # E-commerce-back-end
-Hello, in this project I made a backend for a E commerce store using object relational mapping, you can view the code by using insomnia.
+Hello, in this project I made a backend for a E commerce store using object relational mapping, you can view the code by using insomnia. If you would like to view a video verison of this tutorial you can do so here https://drive.google.com/file/d/1GmNJcB4p-pacO_Zv6_NFGypp_KxvOzoV/view
 
 ## Starting off
 
